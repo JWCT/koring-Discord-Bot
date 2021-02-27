@@ -1,7 +1,7 @@
 import discord, datetime
 import random
 import asyncio
-token = "ODEwMzUwMDg2ODYwMzA4NTAw.YCiXVA.pHEKR3PwzffPD8UVkHtw6VE1_0U"
+token = "[봇 토큰은 제외임 ㅅㄱ]"
 client = discord.Client()
 
 @client.event
